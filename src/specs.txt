@@ -1,0 +1,8 @@
+başlatmak için:
+  python cclub_ai_challenge.py --map ./maps/0.map --player1 "python ./sourcecode.py" --player2 "./executable" --maxturn 100
+
+production'ı artırmak için "super city:4"
+
+# City ID, X Coordinate, Y Coordinate, Owner ID, Production Type, Production Speed, Current Soldier Amounts of Rock, Paper, Scissors
+
+distance = euclid / 10

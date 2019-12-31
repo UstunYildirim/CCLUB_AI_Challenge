@@ -1,0 +1,17 @@
+# Width Height
+800 600
+# Number Of Cities
+12
+# City ID, X Coordinate, Y Coordinate, Owner ID, Production Type, Production Speed, Current Soldier Amounts of Rock, Paper, Scissors
+1 173 84 1 P 2 0 10 0
+2 627 516 2 P 2 0 10 0
+3 89 501 0 R 7 60 0 0
+4 711 99 0 R 7 60 0 0
+5 309 347 0 R 7 60 0 0
+6 491 253 0 R 7 60 0 0
+7 232 521 0 S 2 0 0 10
+8 568 79 0 S 2 0 0 10
+9 153 254 0 S 7 0 0 60
+10 647 346 0 S 7 0 0 60
+11 245 191 0 P 2 0 10 0
+12 555 409 0 P 2 0 10 0
